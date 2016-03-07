@@ -6,6 +6,8 @@ Since OS X supports custom keylaout files, I created this layout based on the or
 
 There may have been similar Probhat keylaouts around there, but this one supports OS X actions using the following hotkeys.
 
+| | | |
+|-|-|-|
 |⌘|⌥|⌃|
 
 Which means, even when `Probhat` layout is activated, you can hit ⌘+A to select all, ⌘+C to copy, ⌃+D to send EOF or other ⌘+⌥ combinations.
@@ -35,11 +37,15 @@ Run the following command in Terminal.
 
 ## Layout
 
+| | | | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |১|২|৩|৪|৫|৬|৭|৮|৯|০|-|=|
 |দ|ূ|ী|র|ট|এ|ু|ি|ও|প|ে|ো|
 |া|স|ড|ত|গ|হ|জ|ক|ল|;|'|
 |য়|শ|চ|আ|ব|ন|ম|,|।|্|
 
+| | | | | | | | | | | | | | |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
 |~|!|@|#|৳|%|^|ঞ|ৎ|(|)|_|+|
 |ধ|ঊ|ঈ|ড়|ঠ|ঐ|উ|ই|ঔ|ফ|ৈ|ৌ|॥|
 |অ|ষ|ঢ|থ|ঘ|ঃ|ঝ|খ|ং|:|"|
