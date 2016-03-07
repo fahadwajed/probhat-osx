@@ -4,6 +4,7 @@
     @author Md. Minhazul Haque
     @email minhaz@linux.com
     @link https://minhazulhaque.com
+    @license http://opensource.org/licenses/mit-license.php
 -->
 <keyboard group="126" id="-103001" maxout="1" name="Probhat">
 	<layouts>
