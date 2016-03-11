@@ -7,7 +7,7 @@ Since OS X supports custom keylaout files, I created this layout based on the or
 There may have been similar Probhat keylaouts around there, but this one supports OS X actions using the following hotkeys.
 
 |CMD|ALT|CTRL|
-|---|---|---|
+|:---:|:---:|:---:|
 |⌘|⌥|⌃|
 
 Which means, even when `Probhat` layout is activated, you can hit `⌘+A` to select all, `⌘+C` to copy, `⌃+D` to send EOF or other `⌘+⌥` combinations.
@@ -20,6 +20,8 @@ Run the following command in Terminal.
 curl https://raw.githubusercontent.com/minhazul-haque/Probhat/master/install.sh | sudo bash
 ```
 
+Then enter your password so the installer script can copy the necessary files to `/Library/Keyboard\ Layouts` directory.
+
 ## Configure
 
 1. Reboot, or log out and log in again after installing.
@@ -28,11 +30,11 @@ curl https://raw.githubusercontent.com/minhazul-haque/Probhat/master/install.sh 
 4. Get back to `Keyboard Preferences` > `Shortcuts` > `Input Sources` and turn on `Select the previous input source` with shortcut key `⌘+Space`.
 5. Now you will see `Probhat` on input method list on menu bar.
 
-    ![Probhat Input](img_inputmenu.png)
+    ![Probhat Input](https://github.com/minhazul-haque/Probhat/raw/master/img_inputmenu.png)
     
 6. Hit any text editor, browser, Facebook or whatever, press `⌘+Space` and start typing Bangla in Probhat!
 
-    ![Bangla in Text Editor](img_texteditor.png)
+    ![Bangla in Text Editor](https://github.com/minhazul-haque/Probhat/raw/master/img_texteditor.png)
 
 ## License
 
