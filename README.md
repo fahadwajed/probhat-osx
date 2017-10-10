@@ -36,6 +36,11 @@ Then enter your password so the installer script can copy the necessary files to
 
     ![Bangla in Text Editor](https://github.com/minhazul-haque/Probhat/raw/master/img_texteditor.png)
 
+## Bugs
+
+- [x] Numkeys are now working in Bangla mode
+- [ ] Backtick (\`) does not work in Bangla mode
+
 ## License
 
 This keyboard layout is available under the [MIT](http://mths.be/mit) license.
