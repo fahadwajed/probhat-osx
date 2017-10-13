@@ -39,7 +39,7 @@ Then enter your password so the installer script can copy the necessary files to
 ## Bugs
 
 - [x] Numkeys are now working in Bangla mode
-- [ ] Backtick (\`) does not work in Bangla mode
+- [x] Backtick (\`) does not work in Bangla mode
 
 ## License
 
