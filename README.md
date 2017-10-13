@@ -49,7 +49,7 @@ Now reboot or logout to apply the changes.
 ## Bugs
 
 - [x] Numkeys not working in Bangla mode
-- [x] Backtick (\`) does not work in Bangla mode [Fixed by @tareqmahmud]
+- [x] Backtick (\`) does not work in Bangla mode \[Fixed by [tareqmahmud](https://github.com/tareqmahmud)\]
 
 ## License
 
