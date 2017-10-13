@@ -22,6 +22,16 @@ curl https://raw.githubusercontent.com/minhazul-haque/probhat-osx/master/install
 
 Then enter your password so the installer script can copy the necessary files to `/Library/Keyboard\ Layouts` directory.
 
+## Uninstall
+
+Run the following command in Terminal.
+
+```bash
+curl https://raw.githubusercontent.com/minhazul-haque/probhat-osx/master/uninstall.sh | sudo bash
+```
+
+Now reboot or logout to apply the changes.
+
 ## Configure
 
 1. Reboot, or log out and log in again after installing.
@@ -38,8 +48,8 @@ Then enter your password so the installer script can copy the necessary files to
 
 ## Bugs
 
-- [x] Numkeys are now working in Bangla mode
-- [x] Backtick (\`) does not work in Bangla mode
+- [x] Numkeys not working in Bangla mode
+- [x] Backtick (\`) does not work in Bangla mode [Fixed by @tareqmahmud]
 
 ## License
 
