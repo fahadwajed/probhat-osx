@@ -17,7 +17,7 @@ Which means, even when `Probhat` layout is activated, you can hit `⌘+A` to sel
 Run the following command in Terminal.
 
 ```bash
-curl https://raw.githubusercontent.com/minhazul-haque/probhat-osx/master/install.sh | sudo bash
+curl https://raw.githubusercontent.com/mdminhazulhaque/probhat-osx/master/install.sh | sudo bash
 ```
 
 Then enter your password so the installer script can copy the necessary files to `/Library/Keyboard\ Layouts` directory.
@@ -27,7 +27,7 @@ Then enter your password so the installer script can copy the necessary files to
 Run the following command in Terminal.
 
 ```bash
-curl https://raw.githubusercontent.com/minhazul-haque/probhat-osx/master/uninstall.sh | sudo bash
+curl https://raw.githubusercontent.com/mdminhazulhaque/probhat-osx/master/uninstall.sh | sudo bash
 ```
 
 Now reboot or logout to apply the changes.
@@ -40,11 +40,11 @@ Now reboot or logout to apply the changes.
 4. Get back to `Keyboard Preferences` > `Shortcuts` > `Input Sources` and turn on `Select the previous input source` with shortcut key `⌘+Space`.
 5. Now you will see `Probhat` on input method list on menu bar.
 
-    ![Probhat Input](https://github.com/minhazul-haque/Probhat/raw/master/img_inputmenu.png)
+    ![Probhat Input](https://github.com/mdminhazulhaque/Probhat/raw/master/img_inputmenu.png)
     
 6. Hit any text editor, browser, Facebook or whatever, press `⌘+Space` and start typing Bangla in Probhat!
 
-    ![Bangla in Text Editor](https://github.com/minhazul-haque/Probhat/raw/master/img_texteditor.png)
+    ![Bangla in Text Editor](https://github.com/mdminhazulhaque/Probhat/raw/master/img_texteditor.png)
 
 ## Bugs
 
