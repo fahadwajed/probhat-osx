@@ -54,3 +54,5 @@ Now reboot or logout to apply the changes.
 ## License
 
 This keyboard layout is available under the [MIT](http://mths.be/mit) license.
+
+Apple like toolbar icon provided by [Shad Iqbal](http://be.net/shadview)
