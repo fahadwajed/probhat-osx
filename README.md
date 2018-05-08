@@ -17,7 +17,7 @@ Which means, even when `Probhat` layout is activated, you can hit `⌘+A` to sel
 Run the following command in Terminal.
 
 ```bash
-curl https://raw.githubusercontent.com/mdminhazulhaque/probhat-osx/master/install.sh | sudo bash
+curl https://raw.githubusercontent.com/fahadwajed/probhat-osx/master/install.sh | sudo bash
 ```
 
 Then enter your password so the installer script can copy the necessary files to `/Library/Keyboard\ Layouts` directory.
@@ -27,7 +27,7 @@ Then enter your password so the installer script can copy the necessary files to
 Run the following command in Terminal.
 
 ```bash
-curl https://raw.githubusercontent.com/mdminhazulhaque/probhat-osx/master/uninstall.sh | sudo bash
+curl https://raw.githubusercontent.com/fahadwajed/probhat-osx/master/uninstall.sh | sudo bash
 ```
 
 Now reboot or logout to apply the changes.
