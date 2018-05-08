@@ -51,8 +51,10 @@ Now reboot or logout to apply the changes.
 - [x] Numkeys not working in Bangla mode
 - [x] Backtick (\`) does not work in Bangla mode \[Fixed by [tareqmahmud](https://github.com/tareqmahmud)\]
 
+## Update
+
+- [x] Apple like toolbar icon provided by [Shad Iqbal](http://be.net/shadview)
+
 ## License
 
 This keyboard layout is available under the [MIT](http://mths.be/mit) license.
-
-Apple like toolbar icon provided by [Shad Iqbal](http://be.net/shadview)
