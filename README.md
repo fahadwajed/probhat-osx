@@ -12,7 +12,7 @@ There may have been similar Probhat keylaouts around there, but this one support
 
 Which means, even when `Probhat` layout is activated, you can hit `⌘+A` to select all, `⌘+C` to copy, `⌃+D` to send EOF or other `⌘+⌥` combinations.
 
-## Install
+## Install (Supports upto macOS 14.0)
 
 Run the following command in Terminal.
 
