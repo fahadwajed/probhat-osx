@@ -12,7 +12,7 @@ There may have been similar Probhat keylaouts around there, but this one support
 
 Which means, even when `Probhat` layout is activated, you can hit `⌘+A` to select all, `⌘+C` to copy, `⌃+D` to send EOF or other `⌘+⌥` combinations.
 
-## Install (Supports upto macOS 14.0)
+## Install (Tested upto macOS 14.X)
 
 Run the following command in Terminal.
 
@@ -49,7 +49,8 @@ Now reboot or logout to apply the changes.
 ## Bugs
 
 - [x] Numkeys not working in Bangla mode
-- [x] Backtick (\`) does not work in Bangla mode \[Fixed by [tareqmahmud](https://github.com/tareqmahmud)\]
+- [x] Backtick (\`) does not work in Bangla mode by [@tareqmahmud](https://github.com/tareqmahmud)
+- [x] ZWNJ Support by [@rabbihossain](https://github.com/rabbihossain)
 
 ## License
 
