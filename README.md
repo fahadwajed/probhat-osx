@@ -1,18 +1,22 @@
 # Probhat
 
-The Probhat layout is redesigned by [Ankur](http://www.ankurbangla.org). Most of the Linux distro are including this layout with their latest releases. And it has been real easy using Probhat on Windows using Avro.
+Probhat (প্রভাত) is a free Unicode-based Bengali fixed layout. Probhat is included in almost all Linux OS(s). Its key mapping is similar to Phonetic pattern but typing method is fully fixed.
 
-Since OS X supports custom keylaout files, I created this layout based on the original Probhat layout.
+On OS X, custom keyboard layout files are supported. Inspired by the original Probhat layout, I designed this layout.
 
-There may have been similar Probhat keylaouts around there, but this one supports OS X actions using the following hotkeys.
+Similar Probhat keyboard layouts may exist, but mine is unique in that it supports OS X actions using specific hotkeys.
 
 |CMD|ALT|CTRL|
 |:---:|:---:|:---:|
 |⌘|⌥|⌃|
 
-Which means, even when `Probhat` layout is activated, you can hit `⌘+A` to select all, `⌘+C` to copy, `⌃+D` to send EOF or other `⌘+⌥` combinations.
+Which means, even when `Probhat` layout is activated, you can still use `⌘+A` to select all, `⌘+C` to copy, `⌃+D` to send EOF or other `⌘+⌥` combinations.
 
-## Install (Tested upto macOS 14.X)
+## Layout
+
+![Probhat Layout](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/KB-Bengali-Probhat.svg/800px-KB-Bengali-Probhat.svg.png)
+
+## Install (Tested upto macOS Sequoia 15)
 
 Run the following command in Terminal.
 
