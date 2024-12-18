@@ -1,10 +1,12 @@
 # Probhat
 
-Probhat (প্রভাত) is a free Unicode-based Bengali fixed layout. Probhat is included in almost all Linux OS(s). Its key mapping is similar to Phonetic pattern but typing method is fully fixed.
+The Probhat (প্রভাত) keyboard layout is a free, Unicode-based, fixed-layout system for Bengali script, commonly found in Linux distributions.
 
-On OS X, custom keyboard layout files are supported. Inspired by the original Probhat layout, I designed this layout.
+Although its key mappings share similarities with phonetic layouts, Probhat employs a strictly fixed typing method.
 
-Similar Probhat keyboard layouts may exist, but mine is unique in that it supports OS X actions using specific hotkeys.
+This implementation is a custom XML-based layout for macOS, derived from the original Probhat.
+
+Its key distinguishing feature is the integration of macOS keyboard shortcuts through specific hotkey combinations.
 
 |CMD|ALT|CTRL|
 |:---:|:---:|:---:|
