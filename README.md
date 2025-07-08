@@ -18,7 +18,7 @@ Which means, even when `Probhat` layout is activated, you can still use `⌘+A` 
 
 ![Probhat Layout](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/KB-Bengali-Probhat.svg/800px-KB-Bengali-Probhat.svg.png)
 
-## Install (Tested upto macOS Sequoia 15)
+## Install (Tested upto macOS 26)
 
 Run the following command in Terminal.
 
